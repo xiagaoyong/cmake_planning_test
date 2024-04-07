@@ -1,2 +1,2 @@
 # cmake_planning_test
-cmakeplanning project test
+cmake planning project test
